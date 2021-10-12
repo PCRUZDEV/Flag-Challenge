@@ -1,5 +1,5 @@
 # Flag-Challenge
-Created a website showing two flags one on top of the other and so when hovering over either flags it changes to another flag using html and css for this challenge.
+Created a website showing two flags so when hovering over either flag it changes to another flag using html and css for this challenge at @_nology (bootcamp)
 
 
 
