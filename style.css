@@ -1,0 +1,21 @@
+body {
+  background-color: antiquewhite;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-top: 10px;
+}
+
+.german:hover {
+  content: url('./images/hungarian\ flag.png');
+}
+
+.french:hover {
+  content: url(/images/irish\ flag.png);
+}
+
+
