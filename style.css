@@ -15,7 +15,7 @@ img {
 }
 
 .french:hover {
-  content: url(/images/irish\ flag.png);
+  content: url('./images/irish\ flag.png');
 }
 
 
